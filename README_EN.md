@@ -17,7 +17,7 @@ This project utilizes deep learning and computer vision techniques to provide an
 
 ## 📺 3. Demo and Results
 
-> **[TODO: Insert actual analysis result image or GIF here. It is recommended to include separate images for Shot Counting and Player Tracking features.]**
+![Shot Counting Demo](demo.gif)
 
 ## 🛠️ 4. Tech Stack
 
