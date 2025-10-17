@@ -12,8 +12,8 @@ This project utilizes deep learning and computer vision techniques to provide an
 ## ✨ 2. Key Features
 
 * **State-of-the-Art Technology:** Leverages **Ultralytics YOLO11** for high accuracy and fast inference speed.
-* **Precise Pose Analysis:** Uses YOLO Pose Estimation to precisely determine shooting actions based on changes in major joint (knee, hip, ankle) angles.
-* **High-Performance Multi-Object Tracking (MOT):** Employs the **DeepOcSort** tracker with a Re-ID model to maintain stable object IDs and visualize movement paths.
+* **Pose Analysis:** Uses YOLO Pose Estimation to precisely determine shooting actions based on changes in major joint (knee, hip, ankle) angles.
+* **Multi-Object Tracking (MOT):** Employs the **DeepOcSort** tracker with a Re-ID model to maintain stable object IDs and visualize movement paths.
 
 ## 📺 3. Demo and Results
 
