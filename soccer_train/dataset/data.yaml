@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/Colab Notebooks/yolo_prj/soccer_train/train/images
+val: /content/drive/MyDrive/Colab Notebooks/yolo_prj/soccer_train/valid/images
+test: /content/drive/MyDrive/Colab Notebooks/yolo_prj/soccer_train/test/images
+
+nc: 2
+names: ['ball', 'goalkeeper']
+
+roboflow:
+  workspace: mahendra-nakasi
+  project: tracking-ball-nnd9p
+  version: 1
+  license: CC BY 4.0
